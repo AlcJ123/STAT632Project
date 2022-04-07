@@ -6,11 +6,17 @@ Each document has the six variables being:
 
 
 club: Team
+
 last_name: Player's last name
+
 first_name: Player's first name
+
 position: Position abbreviation for which the individual plays
+
 base_salary: Base salary
+
 guaranteed_compensation: Guaranteed compensation
+
 
 
 Acknowledgements
